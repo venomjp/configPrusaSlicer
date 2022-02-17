@@ -1,0 +1,2 @@
+# configPrusaSlicer
+Configuración Artillery Genius 
